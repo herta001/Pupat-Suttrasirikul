@@ -1,6 +1,8 @@
 # Honors Project | Predicting Intercranial Aneurysm Rupture Risk using Machine learning: A Comparative Study of Clinical Data and MRI Image-Based Biomarkers.
 This project (Class of 2026) investigates and compares the predictive performance of machine learning models for intracranial aneurysm risk prediction using two distinct data modalities: (1) clinical-based data (demographic and routine health features) and (2) MRI-based data (imaging-derived morphological features from T2, SWI, and DWI sequences). All code is written in MATLAB (version R2025b).
 
+I wish to express my sincere thanks to Dr. Chao Li, whose invaluable feedback made this project possible.
+
 All data sources are publicly available from Kaggle as follows:
 
 Clinical Dataset:
