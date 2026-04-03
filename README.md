@@ -7,7 +7,9 @@ Clinical Dataset:
 https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset/data
 
 MRI Datasets:
+
 [1] India: https://www.kaggle.com/datasets/mitangshu11/brain-stroke-mri-images/data
+
 [2] RSNA: https://www.kaggle.com/code/dennisfong/dicom-pngs-for-rsna-intracranial-aneurysm?scriptVersionId=253593755
 
 Please credit the original authors if using these datasets for research purposes.
